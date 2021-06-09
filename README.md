@@ -8,7 +8,7 @@ root/
  |-- configs/
  |   |-- opensignal_config.json
  |-- jobs/
- |   |-- etl_job.py
+ |   |-- opensignal_job.py
  |-- tests/
  |   |-- test_data/
  |   |-- test_opensignal_job.py
