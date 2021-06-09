@@ -1,0 +1,6 @@
+{
+  "ny_taxi_path":"./tests/test_data/opensignal/ny_taxi_test_data/ny_taxi/*.parquet",
+  "ny_taxi_rbtf_path":"./tests/test_data/opensignal/ny_taxi_test_data/ny_taxi_rtbf/rtbf_taxies.csv",
+  "ny_taxi_zones_path":"./tests/test_data/opensignal/ny_taxi_test_data/ny_zones/ny_taxi_zones.csv",
+  "output_base": "./"
+}
